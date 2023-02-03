@@ -3,10 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/item_container"
-    android:layout_width="100dp"
-    android:layout_height="130dp"
-    android:layout_margin="15dp"
-    app:cardCornerRadius="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    app:cardCornerRadius="10dp"
     app:strokeWidth="3dp">
 
     <ImageView
